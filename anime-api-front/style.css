@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Jura:wght@300..700&family=Oswald:wght@200..700&display=swap');
+
+
+#res{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 300px;
+    
+}
+
+#res img{
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+body{
+    background-color: #FFDCAD;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#allcontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#boxbutton input {
+    margin-bottom: 15px;
+    background-color: #F16545 ;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#searchCharacter{
+    margin-bottom: 20px;
+}
+
+#search{
+    border-radius: 5px;
+    background-color: #F58D68;
+    
+}
+
+#pesquisar{
+    background-color: #EBC9B2;
+}
+
